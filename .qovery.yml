@@ -1,7 +1,7 @@
 ---
 application:
-  name: "ux221rhildred"
-  project: "ux221rhildred"
+  name: "dbdmwp"
+  project: "dbdmwp"
   organization: "QoveryCommunity"
   publicly_accessible: true
   port: 80
@@ -17,6 +17,6 @@ databases:
 routers:
 - name: "main-ux221rhildred"
   routes:
-  - application_name: "ux221rhildred"
+  - application_name: "dbdmwp"
     paths:
     - "/*"
